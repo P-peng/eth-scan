@@ -1,0 +1,2 @@
+10/22/2019 10:45:06 AM - DEBUG - <eth_account.signers.local.LocalAccount object at 0x00000274EB1676A0>
+10/22/2019 10:45:16 AM - INFO - <eth_account.signers.local.LocalAccount object at 0x0000025DC0D21AC8>
