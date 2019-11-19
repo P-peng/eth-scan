@@ -47,7 +47,7 @@ class MyThread(threading.Thread):
 
 if __name__ == '__main__':
     # 一个url启动几条线程
-    count = 3
+    count = 8
     # 线程计数器
     number = 0
     for i in range(len(EthConfig.keys)):
